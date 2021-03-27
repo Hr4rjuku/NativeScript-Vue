@@ -14,6 +14,7 @@ import Home from "./Home";
     data() {
       return {
         Home: Home,
+        msg: 'MESSAGE',
       }
     }
   }
